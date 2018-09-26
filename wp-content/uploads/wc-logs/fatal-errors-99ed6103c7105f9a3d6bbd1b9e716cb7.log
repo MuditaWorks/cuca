@@ -1,0 +1,304 @@
+2018-02-22T08:10:08+00:00 CRITICAL Cannot redeclare wxr_cdata() (previously declared in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\menu-exporter\menu-exporter.php:69)
+
+2018-02-22T08:52:32+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: Compare allow_empty_value: language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('Compare', false, 'en', 'Plugins', '', 'plugin_yit_comp...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'plugin_yit_comp...', 'Compare', false, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(237): icl_register_string('Plugins', 'plugin_yit_comp...', 'Compare', false, '')
+#3 E:\xampp708\htdocs\wp\javenist\wp-includes\class-wp-hook.php(286): wpml_register_single_string_action('Plugins', 'plugin_yit_comp...', 'Compare')
+#4 E:\xampp7
+
+2018-02-22T09:41:11+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: Compare allow_empty_value: language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('Compare', false, 'en', 'Plugins', '', 'plugin_yit_comp...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'plugin_yit_comp...', 'Compare', false, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(237): icl_register_string('Plugins', 'plugin_yit_comp...', 'Compare', false, '')
+#3 E:\xampp708\htdocs\wp\javenist\wp-includes\class-wp-hook.php(286): wpml_register_single_string_action('Plugins', 'plugin_yit_comp...', 'Compare')
+#4 E:\xampp7
+
+2018-02-22T09:43:00+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: Compare allow_empty_value:1 language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('Compare', true, 'en', 'admin_texts_yit...', '', 'yith_woocompare...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'yith_woocompare...', 'Compare', true, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import.class.php(86): icl_register_string('admin_texts_yit...', 'yith_woocompare...', 'Compare', true)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import
+
+2018-02-22T09:47:58+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: Compare allow_empty_value:1 language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('Compare', true, 'en', 'admin_texts_yit...', '', 'yith_woocompare...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'yith_woocompare...', 'Compare', true, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import.class.php(86): icl_register_string('admin_texts_yit...', 'yith_woocompare...', 'Compare', true)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import
+
+2018-02-22T09:48:07+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: Compare allow_empty_value:1 language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('Compare', true, 'en', 'admin_texts_yit...', '', 'yith_woocompare...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'yith_woocompare...', 'Compare', true, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import.class.php(86): icl_register_string('admin_texts_yit...', 'yith_woocompare...', 'Compare', true)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import
+
+2018-02-23T03:18:22+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: Compare allow_empty_value:1 language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('Compare', true, 'en', 'admin_texts_yit...', '', 'yith_woocompare...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'yith_woocompare...', 'Compare', true, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import.class.php(86): icl_register_string('admin_texts_yit...', 'yith_woocompare...', 'Compare', true)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import
+
+2018-02-23T03:21:31+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: Compare allow_empty_value:1 language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('Compare', true, 'en', 'admin_texts_yit...', '', 'yith_woocompare...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'yith_woocompare...', 'Compare', true, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import.class.php(86): icl_register_string('admin_texts_yit...', 'yith_woocompare...', 'Compare', true)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import
+
+2018-02-23T03:31:23+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: Compare allow_empty_value:1 language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('Compare', true, 'en', 'admin_texts_yit...', '', 'yith_woocompare...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'yith_woocompare...', 'Compare', true, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import.class.php(86): icl_register_string('admin_texts_yit...', 'yith_woocompare...', 'Compare', true)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import
+
+2018-02-23T03:37:06+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: Compare allow_empty_value:1 language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('Compare', true, 'en', 'admin_texts_yit...', '', 'yith_woocompare...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'yith_woocompare...', 'Compare', true, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import.class.php(86): icl_register_string('admin_texts_yit...', 'yith_woocompare...', 'Compare', true)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import
+
+2018-02-23T03:42:25+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: Compare products allow_empty_value:1 language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('Compare product...', true, 'en', 'admin_texts_yit...', '', 'yith_woocompare...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'yith_woocompare...', 'Compare product...', true, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import.class.php(86): icl_register_string('admin_texts_yit...', 'yith_woocompare...', 'Compare product...', true)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translat
+
+2018-02-23T03:45:15+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: My wishlist on javenist allow_empty_value:1 language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('My wishlist on ...', true, 'en', 'admin_texts_yit...', '', 'yith_wcwl_wishl...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'yith_wcwl_wishl...', 'My wishlist on ...', true, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import.class.php(86): icl_register_string('admin_texts_yit...', 'yith_wcwl_wishl...', 'My wishlist on ...', true)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-t
+
+2018-02-23T03:48:07+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: Add to Wishlist allow_empty_value:1 language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('Add to Wishlist', true, 'en', 'admin_texts_yit...', '', 'yith_wcwl_add_t...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'yith_wcwl_add_t...', 'Add to Wishlist', true, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import.class.php(86): icl_register_string('admin_texts_yit...', 'yith_wcwl_add_t...', 'Add to Wishlist', true)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\ad
+
+2018-02-23T04:12:00+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: product allow_empty_value: language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('product', false, 'en', 'WordPress', '', 'URL slug: produ...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'URL slug: produ...', 'product', false, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\slug-translation\class-wpml-slug-translation.php(386): icl_register_string('WordPress', 'URL slug: produ...', 'product')
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\slug-translation\class-wpml-slug-translation
+
+2018-02-23T04:12:34+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'woocommerce_pri...', 'admin_texts_woo...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-db-translation-retrieve.php(159): WPML_ST_Page_Translation->__construct('0', 'woocommerce_pri...', 'admin_texts_woo...', '.', false, '')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-db-translation-retrieve.php(139): WPML_ST_DB_Translation_Retrieve->build_translation(Array, 'woocommerce_pri...', 'admin_texts_woo...', '')
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-tr
+
+2018-02-23T04:12:47+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'woocommerce_pri...', 'admin_texts_woo...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-db-translation-retrieve.php(159): WPML_ST_Page_Translation->__construct('0', 'woocommerce_pri...', 'admin_texts_woo...', '.', false, '')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-db-translation-retrieve.php(139): WPML_ST_DB_Translation_Retrieve->build_translation(Array, 'woocommerce_pri...', 'admin_texts_woo...', '')
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-tr
+
+2018-02-23T04:12:55+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'woocommerce_pri...', 'admin_texts_woo...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-db-translation-retrieve.php(159): WPML_ST_Page_Translation->__construct('0', 'woocommerce_pri...', 'admin_texts_woo...', '.', false, '')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-db-translation-retrieve.php(139): WPML_ST_DB_Translation_Retrieve->build_translation(Array, 'woocommerce_pri...', 'admin_texts_woo...', '')
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-tr
+
+2018-02-23T04:13:12+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'woocommerce_pri...', 'admin_texts_woo...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-db-translation-retrieve.php(159): WPML_ST_Page_Translation->__construct('0', 'woocommerce_pri...', 'admin_texts_woo...', '.', false, '')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-db-translation-retrieve.php(139): WPML_ST_DB_Translation_Retrieve->build_translation(Array, 'woocommerce_pri...', 'admin_texts_woo...', '')
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-tr
+
+2018-02-23T04:13:21+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'woocommerce_pri...', 'admin_texts_woo...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-db-translation-retrieve.php(159): WPML_ST_Page_Translation->__construct('0', 'woocommerce_pri...', 'admin_texts_woo...', '.', false, '')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-db-translation-retrieve.php(139): WPML_ST_DB_Translation_Retrieve->build_translation(Array, 'woocommerce_pri...', 'admin_texts_woo...', '')
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-tr
+
+2018-02-23T04:13:22+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'woocommerce_pri...', 'admin_texts_woo...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-db-translation-retrieve.php(159): WPML_ST_Page_Translation->__construct('0', 'woocommerce_pri...', 'admin_texts_woo...', '.', false, '')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-db-translation-retrieve.php(139): WPML_ST_DB_Translation_Retrieve->build_translation(Array, 'woocommerce_pri...', 'admin_texts_woo...', '')
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-tr
+
+2018-02-23T04:18:35+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'yith_woocompare...', 'admin_texts_yit...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(107): WPML_ST_Page_Translation->__construct('0', 'yith_woocompare...', 'admin_texts_yit...', 'Compare', false, '')
+#2 [internal function]: WPML_ST_Page_Translations_Persist->create_translation_from_db_record(Array)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(51): array_map(Array, Array)
+#4 E:\xampp708\htdocs\wp
+
+2018-02-23T04:19:27+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'yith_woocompare...', 'admin_texts_yit...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(107): WPML_ST_Page_Translation->__construct('0', 'yith_woocompare...', 'admin_texts_yit...', 'Compare', false, '')
+#2 [internal function]: WPML_ST_Page_Translations_Persist->create_translation_from_db_record(Array)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(51): array_map(Array, Array)
+#4 E:\xampp708\htdocs\wp
+
+2018-02-23T04:22:51+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'yith_woocompare...', 'admin_texts_yit...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(107): WPML_ST_Page_Translation->__construct('0', 'yith_woocompare...', 'admin_texts_yit...', 'Compare', false, '')
+#2 [internal function]: WPML_ST_Page_Translations_Persist->create_translation_from_db_record(Array)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(51): array_map(Array, Array)
+#4 E:\xampp708\htdocs\wp
+
+2018-02-23T04:23:16+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'yith_woocompare...', 'admin_texts_yit...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(107): WPML_ST_Page_Translation->__construct('0', 'yith_woocompare...', 'admin_texts_yit...', 'Compare', false, '')
+#2 [internal function]: WPML_ST_Page_Translations_Persist->create_translation_from_db_record(Array)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(51): array_map(Array, Array)
+#4 E:\xampp708\htdocs\wp
+
+2018-02-23T04:23:37+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'yith_woocompare...', 'admin_texts_yit...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(107): WPML_ST_Page_Translation->__construct('0', 'yith_woocompare...', 'admin_texts_yit...', 'Compare', false, '')
+#2 [internal function]: WPML_ST_Page_Translations_Persist->create_translation_from_db_record(Array)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(51): array_map(Array, Array)
+#4 E:\xampp708\htdocs\wp
+
+2018-02-23T04:24:41+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'yith_woocompare...', 'admin_texts_yit...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(107): WPML_ST_Page_Translation->__construct('0', 'yith_woocompare...', 'admin_texts_yit...', 'Compare', false, '')
+#2 [internal function]: WPML_ST_Page_Translations_Persist->create_translation_from_db_record(Array)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(51): array_map(Array, Array)
+#4 E:\xampp708\htdocs\wp
+
+2018-02-23T04:29:58+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'yith_woocompare...', 'admin_texts_yit...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(107): WPML_ST_Page_Translation->__construct('0', 'yith_woocompare...', 'admin_texts_yit...', 'Compare', false, '')
+#2 [internal function]: WPML_ST_Page_Translations_Persist->create_translation_from_db_record(Array)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(51): array_map(Array, Array)
+#4 E:\xampp708\htdocs\wp
+
+2018-02-23T06:45:17+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'yith_woocompare...', 'admin_texts_yit...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(107): WPML_ST_Page_Translation->__construct('0', 'yith_woocompare...', 'admin_texts_yit...', 'Compare', false, '')
+#2 [internal function]: WPML_ST_Page_Translations_Persist->create_translation_from_db_record(Array)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(51): array_map(Array, Array)
+#4 E:\xampp708\htdocs\wp
+
+2018-02-23T06:55:21+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: order-pay allow_empty_value: language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('order-pay', false, 'en', 'WooCommerce End...', '', 'order-pay')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'order-pay', 'order-pay', false, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(237): icl_register_string('WooCommerce End...', 'order-pay', 'order-pay', false, '')
+#3 E:\xampp708\htdocs\wp\javenist\wp-includes\class-wp-hook.php(286): wpml_register_single_string_action('WooCommerce End...', 'order-pay', 'order-pay')
+#4 E:
+
+2018-02-23T06:56:28+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'order-pay', 'WooCommerce End...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(107): WPML_ST_Page_Translation->__construct('0', 'order-pay', 'WooCommerce End...', 'order-pay', false, '')
+#2 [internal function]: WPML_ST_Page_Translations_Persist->create_translation_from_db_record(Array)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(51): array_map(Array, Array)
+#4 E:\xampp708\htdocs\wp\javenist\wp-con
+
+2018-02-23T06:57:17+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'order-pay', 'WooCommerce End...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(107): WPML_ST_Page_Translation->__construct('0', 'order-pay', 'WooCommerce End...', 'order-pay', false, '')
+#2 [internal function]: WPML_ST_Page_Translations_Persist->create_translation_from_db_record(Array)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(51): array_map(Array, Array)
+#4 E:\xampp708\htdocs\wp\javenist\wp-con
+
+2018-02-23T06:58:19+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'order-pay', 'WooCommerce End...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(107): WPML_ST_Page_Translation->__construct('0', 'order-pay', 'WooCommerce End...', 'order-pay', false, '')
+#2 [internal function]: WPML_ST_Page_Translations_Persist->create_translation_from_db_record(Array)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(51): array_map(Array, Array)
+#4 E:\xampp708\htdocs\wp\javenist\wp-con
+
+2018-02-23T06:58:28+00:00 CRITICAL Uncaught InvalidArgumentException: String id cannot be empty in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php:103
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\class-wpml-st-page-translation.php(44): WPML_ST_Page_Translation->validate_values('0', 'order-pay', 'WooCommerce End...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(107): WPML_ST_Page_Translation->__construct('0', 'order-pay', 'WooCommerce End...', 'order-pay', false, '')
+#2 [internal function]: WPML_ST_Page_Translations_Persist->create_translation_from_db_record(Array)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\db-cache\persist\class-wpml-st-page-translations-persist.php(51): array_map(Array, Array)
+#4 E:\xampp708\htdocs\wp\javenist\wp-con
+
+2018-02-23T07:07:53+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: Compare allow_empty_value:1 language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('Compare', true, 'en', 'admin_texts_yit...', '', 'yith_woocompare...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'yith_woocompare...', 'Compare', true, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import.class.php(86): icl_register_string('admin_texts_yit...', 'yith_woocompare...', 'Compare', true)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import
+
+2018-02-23T07:13:37+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: Compare allow_empty_value:1 language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('Compare', true, 'en', 'admin_texts_yit...', '', 'yith_woocompare...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'yith_woocompare...', 'Compare', true, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import.class.php(86): icl_register_string('admin_texts_yit...', 'yith_woocompare...', 'Compare', true)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import
+
+2018-02-23T07:14:34+00:00 CRITICAL Uncaught Exception: Could not add String with arguments: value: Compare allow_empty_value:1 language: en in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php:167
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\classes\filters\class-wpml-register-string-filter.php(141): WPML_Register_String_Filter->save_string('Compare', true, 'en', 'admin_texts_yit...', '', 'yith_woocompare...')
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\functions.php(210): WPML_Register_String_Filter->register_string('', 'yith_woocompare...', 'Compare', true, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import.class.php(86): icl_register_string('admin_texts_yit...', 'yith_woocompare...', 'Compare', true)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\wpml-string-translation\inc\admin-texts\wpml-admin-text-import
+
+2018-02-23T07:29:00+00:00 CRITICAL Uncaught InvalidArgumentException: element_id and type do not match for element_id:12165 the database contains post_attachment while this function was called with post_nav_menu_item in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\classes\core-abstract-classes\class-wpml-set-language.php:28
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\sitepress.class.php(1459): WPML_Set_Language->set('12165', 'post_nav_menu_i...', NULL, 'en', NULL, true)
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\inc\wp-nav-menus\class-wpml-nav-menu.php(205): SitePress->set_element_language_details('12165', 'post_nav_menu_i...', NULL, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\inc\wp-nav-menus\class-wpml-nav-menu.php(78): WPML_Nav_Menu->_set_menus_language()
+#3 E:\xampp708\htdocs\wp\javenist\wp-includes\class-wp-hook.php(286): WPML_Nav_Menu->init('')
+#4 E:\xampp708\htdocs\wp\javenist\wp
+
+2018-02-23T07:30:01+00:00 CRITICAL Uncaught InvalidArgumentException: element_id and type do not match for element_id:12166 the database contains post_attachment while this function was called with post_nav_menu_item in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\classes\core-abstract-classes\class-wpml-set-language.php:28
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\sitepress.class.php(1459): WPML_Set_Language->set('12166', 'post_nav_menu_i...', NULL, 'en', NULL, true)
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\inc\wp-nav-menus\class-wpml-nav-menu.php(205): SitePress->set_element_language_details('12166', 'post_nav_menu_i...', NULL, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\inc\wp-nav-menus\class-wpml-nav-menu.php(78): WPML_Nav_Menu->_set_menus_language()
+#3 E:\xampp708\htdocs\wp\javenist\wp-includes\class-wp-hook.php(286): WPML_Nav_Menu->init('')
+#4 E:\xampp708\htdocs\wp\javenist\wp
+
+2018-02-23T07:30:53+00:00 CRITICAL Uncaught InvalidArgumentException: element_id and type do not match for element_id:12166 the database contains post_attachment while this function was called with post_nav_menu_item in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\classes\core-abstract-classes\class-wpml-set-language.php:28
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\sitepress.class.php(1459): WPML_Set_Language->set('12166', 'post_nav_menu_i...', NULL, 'en', NULL, true)
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\inc\wp-nav-menus\class-wpml-nav-menu.php(205): SitePress->set_element_language_details('12166', 'post_nav_menu_i...', NULL, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\inc\wp-nav-menus\class-wpml-nav-menu.php(78): WPML_Nav_Menu->_set_menus_language()
+#3 E:\xampp708\htdocs\wp\javenist\wp-includes\class-wp-hook.php(286): WPML_Nav_Menu->init('')
+#4 E:\xampp708\htdocs\wp\javenist\wp
+
+2018-02-23T07:31:31+00:00 CRITICAL Uncaught InvalidArgumentException: element_id and type do not match for element_id:12168 the database contains post_attachment while this function was called with post_nav_menu_item in E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\classes\core-abstract-classes\class-wpml-set-language.php:28
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\sitepress.class.php(1459): WPML_Set_Language->set('12168', 'post_nav_menu_i...', NULL, 'en', NULL, true)
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\inc\wp-nav-menus\class-wpml-nav-menu.php(205): SitePress->set_element_language_details('12168', 'post_nav_menu_i...', NULL, 'en')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\sitepress-multilingual-cms\inc\wp-nav-menus\class-wpml-nav-menu.php(78): WPML_Nav_Menu->_set_menus_language()
+#3 E:\xampp708\htdocs\wp\javenist\wp-includes\class-wp-hook.php(286): WPML_Nav_Menu->init('')
+#4 E:\xampp708\htdocs\wp\javenist\wp
+
+2018-02-26T07:31:24+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::wc_get_formatted_cart_item_data() in E:\xampp708\htdocs\wp\javenist\wp-content\themes\javenist\woocommerce\cart\cart.php:75
+Stack trace:
+#0 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\woocommerce\includes\wc-core-functions.php(211): include()
+#1 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(87): wc_get_template('cart/cart.php')
+#2 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(76): WC_Shortcode_Cart::output(Array)
+#3 E:\xampp708\htdocs\wp\javenist\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(89): WC_Shortcodes::shortcode_wrapper(Array)
+#4 E:\xampp708\htdocs\wp\javenist\wp-includes\shortcodes.php(319): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 E:\xampp708\htdocs\wp\javenist\wp-includes\shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(woocom...', 'do_shortcode_ta.
+

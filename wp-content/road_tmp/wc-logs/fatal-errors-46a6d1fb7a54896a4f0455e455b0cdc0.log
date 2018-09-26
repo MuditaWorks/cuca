@@ -1,0 +1,72 @@
+2018-05-13T12:05:44+00:00 CRITICAL Cannot redeclare wxr_cdata() (previously declared in /home/roadthemes/public_html/demo/aboss/wp-content/plugins/menu-exporter/menu-exporter.php:69)
+
+2018-05-13T12:05:58+00:00 CRITICAL Cannot redeclare wxr_cdata() (previously declared in /home/roadthemes/public_html/demo/aboss/wp-content/plugins/menu-exporter/menu-exporter.php:69)
+
+2018-05-16T07:41:38+00:00 CRITICAL Uncaught Error: Class 'Ororus_Class' not found in /home/roadthemes/public_html/demo/aboss/wp-content/themes/aboss/content-gallery.php:12
+Stack trace:
+#0 /home/roadthemes/public_html/demo/aboss/wp-includes/template.php(690): require()
+#1 /home/roadthemes/public_html/demo/aboss/wp-includes/template.php(647): load_template('/home/roadtheme...', false)
+#2 /home/roadthemes/public_html/demo/aboss/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /home/roadthemes/public_html/demo/aboss/wp-content/themes/aboss/single.php(77): get_template_part('content', 'gallery')
+#4 /home/roadthemes/public_html/demo/aboss/wp-includes/template-loader.php(74): include('/home/roadtheme...')
+#5 /home/roadthemes/public_html/demo/aboss/wp-blog-header.php(19): require_once('/home/roadtheme...')
+#6 /home/roadthemes/public_html/demo/aboss/index.php(17): require('/home/roadtheme...')
+#7 {main}
+  thrown
+
+2018-05-16T07:41:48+00:00 CRITICAL Uncaught Error: Class 'Ororus_Class' not found in /home/roadthemes/public_html/demo/aboss/wp-content/themes/aboss/content-gallery.php:12
+Stack trace:
+#0 /home/roadthemes/public_html/demo/aboss/wp-includes/template.php(690): require()
+#1 /home/roadthemes/public_html/demo/aboss/wp-includes/template.php(647): load_template('/home/roadtheme...', false)
+#2 /home/roadthemes/public_html/demo/aboss/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /home/roadthemes/public_html/demo/aboss/wp-content/themes/aboss/single.php(77): get_template_part('content', 'gallery')
+#4 /home/roadthemes/public_html/demo/aboss/wp-includes/template-loader.php(74): include('/home/roadtheme...')
+#5 /home/roadthemes/public_html/demo/aboss/wp-blog-header.php(19): require_once('/home/roadtheme...')
+#6 /home/roadthemes/public_html/demo/aboss/index.php(17): require('/home/roadtheme...')
+#7 {main}
+  thrown
+
+2018-05-16T07:42:05+00:00 CRITICAL Uncaught Error: Class 'Ororus_Class' not found in /home/roadthemes/public_html/demo/aboss/wp-content/themes/aboss/category.php:47
+Stack trace:
+#0 /home/roadthemes/public_html/demo/aboss/wp-includes/template-loader.php(74): include()
+#1 /home/roadthemes/public_html/demo/aboss/wp-blog-header.php(19): require_once('/home/roadtheme...')
+#2 /home/roadthemes/public_html/demo/aboss/index.php(17): require('/home/roadtheme...')
+#3 {main}
+  thrown
+
+2018-05-16T07:42:10+00:00 CRITICAL Uncaught Error: Class 'Ororus_Class' not found in /home/roadthemes/public_html/demo/aboss/wp-content/themes/aboss/content-image.php:14
+Stack trace:
+#0 /home/roadthemes/public_html/demo/aboss/wp-includes/template.php(690): require()
+#1 /home/roadthemes/public_html/demo/aboss/wp-includes/template.php(647): load_template('/home/roadtheme...', false)
+#2 /home/roadthemes/public_html/demo/aboss/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /home/roadthemes/public_html/demo/aboss/wp-content/themes/aboss/index.php(89): get_template_part('content', 'image')
+#4 /home/roadthemes/public_html/demo/aboss/wp-includes/template-loader.php(74): include('/home/roadtheme...')
+#5 /home/roadthemes/public_html/demo/aboss/wp-blog-header.php(19): require_once('/home/roadtheme...')
+#6 /home/roadthemes/public_html/demo/aboss/index.php(17): require('/home/roadtheme...')
+#7 {main}
+  thrown
+
+2018-05-16T07:42:25+00:00 CRITICAL Uncaught Error: Class 'Ororus_Class' not found in /home/roadthemes/public_html/demo/aboss/wp-content/themes/aboss/content-image.php:14
+Stack trace:
+#0 /home/roadthemes/public_html/demo/aboss/wp-includes/template.php(690): require()
+#1 /home/roadthemes/public_html/demo/aboss/wp-includes/template.php(647): load_template('/home/roadtheme...', false)
+#2 /home/roadthemes/public_html/demo/aboss/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /home/roadthemes/public_html/demo/aboss/wp-content/themes/aboss/index.php(89): get_template_part('content', 'image')
+#4 /home/roadthemes/public_html/demo/aboss/wp-includes/template-loader.php(74): include('/home/roadtheme...')
+#5 /home/roadthemes/public_html/demo/aboss/wp-blog-header.php(19): require_once('/home/roadtheme...')
+#6 /home/roadthemes/public_html/demo/aboss/index.php(17): require('/home/roadtheme...')
+#7 {main}
+  thrown
+
+2018-05-16T07:42:30+00:00 CRITICAL Uncaught Error: Class 'Ororus_Class' not found in /home/roadthemes/public_html/demo/aboss/wp-content/themes/aboss/content-image.php:14
+Stack trace:
+#0 /home/roadthemes/public_html/demo/aboss/wp-includes/template.php(690): require()
+#1 /home/roadthemes/public_html/demo/aboss/wp-includes/template.php(647): load_template('/home/roadtheme...', false)
+#2 /home/roadthemes/public_html/demo/aboss/wp-includes/general-template.php(155): locate_template(Array, true, false)
+#3 /home/roadthemes/public_html/demo/aboss/wp-content/themes/aboss/index.php(89): get_template_part('content', 'image')
+#4 /home/roadthemes/public_html/demo/aboss/wp-includes/template-loader.php(74): include('/home/roadtheme...')
+#5 /home/roadthemes/public_html/demo/aboss/wp-blog-header.php(19): require_once('/home/roadtheme...')
+#6 /home/roadthemes/public_html/demo/aboss/index.php(17): require('/home/roadtheme...')
+#7 {main}
+  thrown
+

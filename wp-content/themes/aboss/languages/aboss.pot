@@ -1,0 +1,2087 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aboss 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/roadthemes\n"
+"POT-Creation-Date: 2018-05-25 16:18+0700\n"
+"PO-Revision-Date: 2015-12-14 21:10+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-KeywordsList: _e;_n;__;_x;_ex;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../aboss/404.php:18
+msgid "404"
+msgstr ""
+
+#: ../aboss/404.php:19
+msgid "PAGE NOT BE FOUND"
+msgstr ""
+
+#: ../aboss/404.php:20
+msgid ""
+"Sorry but the page you are looking for does not exist, have been removed, "
+"name changed or is temporarity unavailable."
+msgstr ""
+
+#: ../aboss/404.php:22
+msgid "Back to home page"
+msgstr ""
+
+#: ../aboss/archive.php:66 ../aboss/author.php:59 ../aboss/category.php:59
+#: ../aboss/functions.php:1249 ../aboss/functions_.php:1249
+#: ../aboss/image.php:52 ../aboss/index.php:69 ../aboss/search.php:55
+#: ../aboss/single.php:48 ../aboss/tag.php:59 ../aboss/theme-config.php:1189
+msgid "Blog"
+msgstr ""
+
+#: ../aboss/author.php:84
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../aboss/author.php:113
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../aboss/category.php:78
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:327 ../aboss/functions.php:1692
+#: ../aboss/functions_.php:1692
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:328 ../aboss/functions.php:1693
+#: ../aboss/functions_.php:1693
+msgid "Install Plugins"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:330 ../aboss/functions.php:1694
+#: ../aboss/functions_.php:1694
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:333 ../aboss/functions.php:1695
+#: ../aboss/functions_.php:1695
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:385 ../aboss/functions.php:1706
+#: ../aboss/functions_.php:1706
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:386
+#: ../aboss/class-tgm-plugin-activation.php:827
+#: ../aboss/class-tgm-plugin-activation.php:2533
+#: ../aboss/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:387
+#: ../aboss/class-tgm-plugin-activation.php:3159 ../aboss/functions.php:1707
+#: ../aboss/functions_.php:1707
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:388
+#: ../aboss/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:934
+#: ../aboss/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:3509
+#: ../aboss/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:3509
+#: ../aboss/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../aboss/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../aboss/comments.php:32 ../aboss/content-audio.php:119
+#: ../aboss/content-gallery.php:120 ../aboss/content-image.php:121
+#: ../aboss/content-video.php:118 ../aboss/content.php:121
+#: ../aboss/functions.php:1479 ../aboss/functions_.php:1479
+msgid "1 comment"
+msgstr ""
+
+#: ../aboss/comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: ../aboss/content-audio.php:49 ../aboss/content-audio.php:64
+#: ../aboss/content-audio.php:81 ../aboss/content-gallery.php:49
+#: ../aboss/content-gallery.php:65 ../aboss/content-gallery.php:83
+#: ../aboss/content-image.php:52 ../aboss/content-image.php:67
+#: ../aboss/content-image.php:84 ../aboss/content-video.php:49
+#: ../aboss/content-video.php:64 ../aboss/content-video.php:81
+#: ../aboss/content.php:52 ../aboss/content.php:67 ../aboss/content.php:84
+msgid "Posted by"
+msgstr ""
+
+#: ../aboss/content-audio.php:96 ../aboss/content-gallery.php:98
+#: ../aboss/content-image.php:99 ../aboss/content-video.php:96
+#: ../aboss/content.php:99
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../aboss/content-audio.php:97 ../aboss/content-gallery.php:99
+#: ../aboss/content-image.php:100 ../aboss/content-page.php:20
+#: ../aboss/content-video.php:97 ../aboss/content.php:100
+#: ../aboss/image.php:125
+msgid "Pages:"
+msgstr ""
+
+#: ../aboss/content-audio.php:103 ../aboss/content-gallery.php:104
+#: ../aboss/content-image.php:105 ../aboss/content-video.php:102
+#: ../aboss/content.php:105
+msgid "Read more"
+msgstr ""
+
+#: ../aboss/content-audio.php:115 ../aboss/content-gallery.php:116
+#: ../aboss/content-image.php:117 ../aboss/content-video.php:114
+#: ../aboss/content.php:117 ../aboss/functions.php:1475
+#: ../aboss/functions_.php:1475
+msgid "0 comments"
+msgstr ""
+
+#: ../aboss/content-audio.php:117 ../aboss/content-gallery.php:118
+#: ../aboss/content-image.php:119 ../aboss/content-video.php:116
+#: ../aboss/content.php:119 ../aboss/functions.php:1477
+#: ../aboss/functions.php:1523 ../aboss/functions_.php:1477
+#: ../aboss/functions_.php:1523 ../aboss/include/shortcodes.php:429
+msgid " comments"
+msgstr ""
+
+#: ../aboss/content-audio.php:145 ../aboss/content-gallery.php:146
+#: ../aboss/content-image.php:147 ../aboss/content-video.php:144
+#: ../aboss/content.php:147
+msgid "About the Author:"
+msgstr ""
+
+#: ../aboss/content-audio.php:157 ../aboss/content-gallery.php:158
+#: ../aboss/content-image.php:159 ../aboss/content-video.php:150
+#: ../aboss/content.php:159
+msgid "Related posts"
+msgstr ""
+
+#: ../aboss/content-gallery.php:54 ../aboss/content-gallery.php:70
+msgid "On"
+msgstr ""
+
+#: ../aboss/content-none.php:13 ../aboss/index.php:116 ../aboss/search.php:88
+msgid "Nothing Found"
+msgstr ""
+
+#: ../aboss/content-none.php:17 ../aboss/index.php:120
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: ../aboss/functions.php:224 ../aboss/functions.php:850
+#: ../aboss/functions.php:856 ../aboss/functions.php:860
+#: ../aboss/functions_.php:224 ../aboss/functions_.php:850
+#: ../aboss/functions_.php:856 ../aboss/functions_.php:860
+msgid "Search..."
+msgstr ""
+
+#: ../aboss/functions.php:243 ../aboss/functions.php:834
+#: ../aboss/functions.php:840 ../aboss/functions.php:844
+#: ../aboss/functions_.php:243 ../aboss/functions_.php:834
+#: ../aboss/functions_.php:840 ../aboss/functions_.php:844
+msgid "Search product..."
+msgstr ""
+
+#: ../aboss/functions.php:398 ../aboss/functions_.php:398
+msgid "Primary Menu"
+msgstr ""
+
+#: ../aboss/functions.php:399 ../aboss/functions_.php:399
+msgid "Top Menu"
+msgstr ""
+
+#: ../aboss/functions.php:400 ../aboss/functions_.php:400
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../aboss/functions.php:939 ../aboss/functions_.php:939
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../aboss/functions.php:941 ../aboss/functions_.php:941
+msgid "Sidebar on blog page"
+msgstr ""
+
+#: ../aboss/functions.php:949 ../aboss/functions_.php:949
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../aboss/functions.php:951 ../aboss/functions_.php:951
+msgid "Sidebar on shop page (only sidebar shop layout)"
+msgstr ""
+
+#: ../aboss/functions.php:958 ../aboss/functions_.php:958
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../aboss/functions.php:960 ../aboss/functions_.php:960
+msgid "Sidebar on content pages"
+msgstr ""
+
+#: ../aboss/functions.php:996 ../aboss/functions_.php:996
+msgid ""
+"This content will be used to replace the featured image, use shortcode here"
+msgstr ""
+
+#: ../aboss/functions.php:1017 ../aboss/functions_.php:1017
+msgid "Select a custom sidebar for this post/page"
+msgstr ""
+
+#: ../aboss/functions.php:1021
+msgid "- None -"
+msgstr ""
+
+#: ../aboss/functions.php:1036 ../aboss/functions_.php:1036
+msgid "Sidebar position"
+msgstr ""
+
+#: ../aboss/functions.php:1040
+msgid "Left"
+msgstr ""
+
+#: ../aboss/functions.php:1041
+msgid "Right"
+msgstr ""
+
+#: ../aboss/functions.php:1195 ../aboss/functions.php:1243
+#: ../aboss/functions_.php:1195 ../aboss/functions_.php:1243
+msgid "Home"
+msgstr ""
+
+#: ../aboss/functions.php:1229 ../aboss/functions.php:1230
+#: ../aboss/functions.php:1231 ../aboss/functions_.php:1229
+#: ../aboss/functions_.php:1230 ../aboss/functions_.php:1231
+#, php-format
+msgid "Archive for: %s"
+msgstr ""
+
+#: ../aboss/functions.php:1230 ../aboss/functions_.php:1230
+msgid "F Y"
+msgstr ""
+
+#: ../aboss/functions.php:1231 ../aboss/functions_.php:1231
+msgid "Y"
+msgstr ""
+
+#: ../aboss/functions.php:1232 ../aboss/functions_.php:1232
+msgid "Archive for"
+msgstr ""
+
+#: ../aboss/functions.php:1233 ../aboss/functions_.php:1233
+msgid "Blog Archives"
+msgstr ""
+
+#: ../aboss/functions.php:1234 ../aboss/functions_.php:1234
+msgid "Search Results"
+msgstr ""
+
+#: ../aboss/functions.php:1318 ../aboss/functions.php:1330
+#: ../aboss/functions.php:1331 ../aboss/functions.php:1332
+#: ../aboss/functions_.php:1318 ../aboss/functions_.php:1330
+#: ../aboss/functions_.php:1331 ../aboss/functions_.php:1332
+msgid "on"
+msgstr ""
+
+#: ../aboss/functions.php:1367 ../aboss/functions_.php:1367
+msgid "Post navigation"
+msgstr ""
+
+#: ../aboss/functions.php:1368 ../aboss/functions_.php:1368
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../aboss/functions.php:1369 ../aboss/functions_.php:1369
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../aboss/functions.php:1387 ../aboss/functions_.php:1387
+msgid "Previous"
+msgstr ""
+
+#: ../aboss/functions.php:1388 ../aboss/functions_.php:1388
+msgid "Next"
+msgstr ""
+
+#: ../aboss/functions.php:1412 ../aboss/functions_.php:1412
+msgid "Pingback:"
+msgstr ""
+
+#: ../aboss/functions.php:1412 ../aboss/functions_.php:1412
+msgid "(Edit)"
+msgstr ""
+
+#: ../aboss/functions.php:1431 ../aboss/functions_.php:1431
+msgid "Post author"
+msgstr ""
+
+#: ../aboss/functions.php:1436 ../aboss/functions_.php:1436
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../aboss/functions.php:1440 ../aboss/functions_.php:1440
+msgid "Reply"
+msgstr ""
+
+#: ../aboss/functions.php:1444 ../aboss/functions_.php:1444
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../aboss/functions.php:1449 ../aboss/functions_.php:1449
+#: ../aboss/image.php:152
+msgid "Edit"
+msgstr ""
+
+#: ../aboss/functions.php:1484 ../aboss/functions_.php:1484
+#, php-format
+msgid "%1$s "
+msgstr ""
+
+#: ../aboss/functions.php:1488 ../aboss/functions_.php:1488
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+#: ../aboss/functions.php:1499 ../aboss/functions_.php:1499
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../aboss/functions.php:1503 ../aboss/functions_.php:1503
+#, php-format
+msgid "Posted by %1$s / %2$s"
+msgstr ""
+
+#: ../aboss/functions.php:1521 ../aboss/functions_.php:1521
+#: ../aboss/include/shortcodes.php:427
+msgid "<span>0</span> comments"
+msgstr ""
+
+#: ../aboss/functions.php:1525 ../aboss/functions_.php:1525
+#: ../aboss/include/shortcodes.php:431
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: ../aboss/functions.php:1530 ../aboss/functions_.php:1530
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../aboss/functions.php:1541 ../aboss/functions_.php:1541
+msgid "RoadThemes Helper"
+msgstr ""
+
+#: ../aboss/functions.php:1551 ../aboss/functions_.php:1551
+msgid "Mega Main Menu"
+msgstr ""
+
+#: ../aboss/functions.php:1558 ../aboss/functions_.php:1558
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../aboss/functions.php:1565 ../aboss/functions_.php:1565
+msgid "Visual Composer"
+msgstr ""
+
+#: ../aboss/functions.php:1572 ../aboss/functions_.php:1572
+msgid "Templatera"
+msgstr ""
+
+#: ../aboss/functions.php:1579 ../aboss/functions_.php:1579
+msgid "Essential Grid"
+msgstr ""
+
+#: ../aboss/functions.php:1587 ../aboss/functions_.php:1587
+msgid "Redux Framework"
+msgstr ""
+
+#: ../aboss/functions.php:1594 ../aboss/functions_.php:1594
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../aboss/functions.php:1599 ../aboss/functions_.php:1599
+msgid "Events Manager"
+msgstr ""
+
+#: ../aboss/functions.php:1604 ../aboss/functions_.php:1604
+msgid "Instagram Feed"
+msgstr ""
+
+#: ../aboss/functions.php:1609 ../aboss/functions_.php:1609
+msgid "Latest Tweets Widget"
+msgstr ""
+
+#: ../aboss/functions.php:1614 ../aboss/functions_.php:1614
+msgid "WS Facebook Like Box Widget"
+msgstr ""
+
+#: ../aboss/functions.php:1624 ../aboss/functions_.php:1624
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: ../aboss/functions.php:1629 ../aboss/functions_.php:1629
+msgid "Shortcodes Ultimate"
+msgstr ""
+
+#: ../aboss/functions.php:1635 ../aboss/functions_.php:1635
+msgid "Simple Local Avatars"
+msgstr ""
+
+#: ../aboss/functions.php:1640 ../aboss/functions_.php:1640
+#: ../aboss/include/map_shortcodes.php:272 ../aboss/theme-config.php:1265
+msgid "Testimonials"
+msgstr ""
+
+#: ../aboss/functions.php:1645 ../aboss/functions_.php:1645
+msgid "TinyMCE Advanced"
+msgstr ""
+
+#: ../aboss/functions.php:1650 ../aboss/functions_.php:1650
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: ../aboss/functions.php:1655 ../aboss/functions_.php:1655
+msgid "WooCommerce"
+msgstr ""
+
+#: ../aboss/functions.php:1660 ../aboss/functions_.php:1660
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: ../aboss/functions.php:1665 ../aboss/functions_.php:1665
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: ../aboss/functions.php:1670 ../aboss/functions_.php:1670
+msgid "YITH WooCommerce Zoom Magnifier"
+msgstr ""
+
+#: ../aboss/functions.php:1708 ../aboss/functions_.php:1708
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../aboss/image.php:141
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title="
+"\"Return to %7$s\" rel=\"gallery\">%8$s</a>."
+msgstr ""
+
+#: ../aboss/image.php:162
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../aboss/image.php:163
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:9 ../aboss/theme-config.php:206
+msgid "Logo"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:12
+#: ../aboss/include/map_shortcodes.php:33
+#: ../aboss/include/map_shortcodes.php:51
+#: ../aboss/include/map_shortcodes.php:61
+#: ../aboss/include/map_shortcodes.php:71
+#: ../aboss/include/map_shortcodes.php:79
+#: ../aboss/include/map_shortcodes.php:89
+#: ../aboss/include/map_shortcodes.php:99
+#: ../aboss/include/map_shortcodes.php:118
+#: ../aboss/include/map_shortcodes.php:149
+#: ../aboss/include/map_shortcodes.php:167
+#: ../aboss/include/map_shortcodes.php:198
+#: ../aboss/include/map_shortcodes.php:217
+#: ../aboss/include/map_shortcodes.php:275
+#: ../aboss/include/map_shortcodes.php:345
+#: ../aboss/include/map_shortcodes.php:363
+#: ../aboss/include/map_shortcodes.php:397
+#: ../aboss/include/map_shortcodes.php:665
+msgid "Theme"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:18
+msgid "Logo Link?"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:30
+msgid "Main Menu"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:39
+msgid "Upload sticky logo image"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:48 ../aboss/theme-config.php:505
+msgid "Categories Menu"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:58
+msgid "Language, Currency Switcher"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:68
+msgid "Countdown time"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:76 ../aboss/theme-config.php:638
+#: ../aboss/theme-config.php:644
+msgid "Social Icons"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:86
+msgid "Mini Cart"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:96
+msgid "Product Search"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:115 ../aboss/theme-config.php:892
+msgid "Brand Logos"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:124
+#: ../aboss/include/map_shortcodes.php:173
+#: ../aboss/include/map_shortcodes.php:250
+msgid "Number of columns"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:126
+#: ../aboss/include/map_shortcodes.php:175
+msgid "6"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:132
+#: ../aboss/include/map_shortcodes.php:181
+#: ../aboss/include/map_shortcodes.php:258
+msgid "Number of rows"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:146
+msgid "List Sub Categories"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:155
+msgid "Category slug"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:164
+msgid "Categories Carousel"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:195
+msgid "Newsletter Form (MailPoet)"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:204
+msgid "Form ID"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:207
+msgid "Enter form ID here"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:214
+msgid "Latest posts"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:223
+msgid "Number of posts"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:225
+msgid "5"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:231
+msgid "Image scale"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:242
+msgid "Excerpt length"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:244
+msgid "20"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:252
+msgid "4"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:281
+msgid "Number of testimonial"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:283
+msgid "10"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:289
+msgid "Display Author"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:300
+msgid "Display Avatar"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:311
+msgid "Avatar image size"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:314
+msgid "Avatar image size in pixels. Default is 50"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:320
+msgid "Display URL"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:331 ../aboss/include/shortcodes.php:93
+msgid "Category"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:333
+msgid "0"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:334
+msgid "ID/slug of the category. Default is 0"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:342
+msgid "Rotating tweets"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:351
+msgid "Twitter user name"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:360
+msgid "Twitter feed"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:369
+msgid "Your Twitter Name(Without the \"@\" symbol)"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:377
+msgid "Number Of Tweets"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:394
+msgid "Google map"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:403
+msgid "Map Height"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:405
+msgid "400"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:406
+msgid "Map height in pixels. Default is 400"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:412
+msgid "Map Zoom"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:414
+msgid "17"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:415
+msgid "Map zoom level, min 0, max 21. Default is 17"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:421
+#: ../aboss/include/map_shortcodes.php:469
+#: ../aboss/include/map_shortcodes.php:517
+#: ../aboss/include/map_shortcodes.php:565
+#: ../aboss/include/map_shortcodes.php:613
+msgid "Latitude"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:430
+#: ../aboss/include/map_shortcodes.php:478
+#: ../aboss/include/map_shortcodes.php:526
+#: ../aboss/include/map_shortcodes.php:574
+#: ../aboss/include/map_shortcodes.php:622
+msgid "Longtitude"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:439
+#: ../aboss/include/map_shortcodes.php:487
+#: ../aboss/include/map_shortcodes.php:535
+#: ../aboss/include/map_shortcodes.php:583
+#: ../aboss/include/map_shortcodes.php:631
+msgid "Address"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:442
+#: ../aboss/include/map_shortcodes.php:490
+#: ../aboss/include/map_shortcodes.php:538
+#: ../aboss/include/map_shortcodes.php:586
+#: ../aboss/include/map_shortcodes.php:634
+msgid "If you donot enter coordinate, enter address here"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:449
+#: ../aboss/include/map_shortcodes.php:497
+#: ../aboss/include/map_shortcodes.php:545
+#: ../aboss/include/map_shortcodes.php:593
+#: ../aboss/include/map_shortcodes.php:641
+msgid "Marker image"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:452
+msgid "Upload marker image, image size: 40x46 px"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:459
+#: ../aboss/include/map_shortcodes.php:507
+#: ../aboss/include/map_shortcodes.php:555
+#: ../aboss/include/map_shortcodes.php:603
+#: ../aboss/include/map_shortcodes.php:651 ../aboss/theme-config.php:942
+msgid "Description"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:462
+msgid "Allowed HTML tags: a, i, em, br, strong, h1, h2, h3"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:500
+#: ../aboss/include/map_shortcodes.php:548
+#: ../aboss/include/map_shortcodes.php:596
+#: ../aboss/include/map_shortcodes.php:644
+msgid "Upload marker image"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:510
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h2, h2, h3"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:558
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h3, h3, h3"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:606
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h4, h4, h4"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:654
+msgid "Allowed HTML tags: a, i, em, br, strong, p, h5, h5, h5"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:662
+msgid "Counter"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:671
+msgid "Image icon"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:674
+msgid "Upload icon image"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:680
+msgid "Number"
+msgstr ""
+
+#: ../aboss/include/map_shortcodes.php:688
+msgid "Text"
+msgstr ""
+
+#: ../aboss/include/roadthemeswidgets.php:8
+msgid "Aboss Widgets"
+msgstr ""
+
+#: ../aboss/include/roadthemeswidgets.php:11
+msgid "Display recent posts, comments, popular posts"
+msgstr ""
+
+#: ../aboss/include/roadthemeswidgets.php:128
+msgid "says"
+msgstr ""
+
+#: ../aboss/include/roadthemeswidgets.php:169
+msgid "Title:"
+msgstr ""
+
+#: ../aboss/include/roadthemeswidgets.php:173
+msgid "Amount:"
+msgstr ""
+
+#: ../aboss/include/roadthemeswidgets.php:177
+msgid "Image size (example: 50,50):"
+msgstr ""
+
+#: ../aboss/include/roadthemeswidgets.php:181
+msgid "Widget Type:"
+msgstr ""
+
+#: ../aboss/include/roadthemeswidgets.php:183
+msgid "Recent Posts"
+msgstr ""
+
+#: ../aboss/include/roadthemeswidgets.php:184
+msgid "Popular Posts"
+msgstr ""
+
+#: ../aboss/include/roadthemeswidgets.php:185
+msgid "Recent Comments"
+msgstr ""
+
+#: ../aboss/include/shortcodes.php:96
+msgid "More Categories"
+msgstr ""
+
+#: ../aboss/include/shortcodes.php:97
+msgid "Close Menu"
+msgstr ""
+
+#: ../aboss/include/shortcodes.php:118
+msgid "language:"
+msgstr ""
+
+#: ../aboss/include/shortcodes.php:119
+msgid "currency:"
+msgstr ""
+
+#: ../aboss/include/shortcodes.php:184
+msgid "All Categories"
+msgstr ""
+
+#: ../aboss/include/shortcodes.php:444
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../aboss/include/wooajax.php:111 ../aboss/woocommerce/cart/mini-cart.php:31
+#, php-format
+msgid "%d"
+msgstr ""
+
+#: ../aboss/include/wooajax.php:130
+msgid "Product is added to cart"
+msgstr ""
+
+#: ../aboss/include/wooajax.php:151
+msgid "View Cart"
+msgstr ""
+
+#: ../aboss/index.php:105
+msgid "No posts to display"
+msgstr ""
+
+#: ../aboss/index.php:109
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: ../aboss/search.php:72
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../aboss/search.php:92
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../aboss/tag.php:76
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../aboss/theme-config.php:97
+msgid "Section via hook"
+msgstr ""
+
+#: ../aboss/theme-config.php:98
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: ../aboss/theme-config.php:160
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../aboss/theme-config.php:177
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../aboss/theme-config.php:178
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../aboss/theme-config.php:179
+msgid "Tags"
+msgstr ""
+
+#: ../aboss/theme-config.php:184
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: ../aboss/theme-config.php:184
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: ../aboss/theme-config.php:198
+msgid "General"
+msgstr ""
+
+#: ../aboss/theme-config.php:199
+msgid "General theme options"
+msgstr ""
+
+#: ../aboss/theme-config.php:209 ../aboss/theme-config.php:1133
+msgid "Upload logo here."
+msgstr ""
+
+#: ../aboss/theme-config.php:215
+msgid "Body background"
+msgstr ""
+
+#: ../aboss/theme-config.php:216
+msgid "Upload image or select color. Only work with box layout"
+msgstr ""
+
+#: ../aboss/theme-config.php:223
+msgid "Page content background"
+msgstr ""
+
+#: ../aboss/theme-config.php:224
+msgid "Select background for page content (default: #ffffff)."
+msgstr ""
+
+#: ../aboss/theme-config.php:230
+msgid "Border Option"
+msgstr ""
+
+#: ../aboss/theme-config.php:231
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: ../aboss/theme-config.php:237
+msgid "Back To Top"
+msgstr ""
+
+#: ../aboss/theme-config.php:238
+msgid "Show back to top button on all pages"
+msgstr ""
+
+#: ../aboss/theme-config.php:246
+msgid "Colors"
+msgstr ""
+
+#: ../aboss/theme-config.php:247
+msgid "Color options"
+msgstr ""
+
+#: ../aboss/theme-config.php:253
+msgid "Primary Color"
+msgstr ""
+
+#: ../aboss/theme-config.php:254
+msgid "Pick a color for primary color (default: #eb3e32)."
+msgstr ""
+
+#: ../aboss/theme-config.php:264
+msgid "Sale Label BG Color"
+msgstr ""
+
+#: ../aboss/theme-config.php:265
+msgid "Pick a color for bg sale label (default: #333333)."
+msgstr ""
+
+#: ../aboss/theme-config.php:275
+msgid "Sale Label Text Color"
+msgstr ""
+
+#: ../aboss/theme-config.php:276
+msgid "Pick a color for sale label text (default: #ffffff)."
+msgstr ""
+
+#: ../aboss/theme-config.php:286
+msgid "Rating Star Color"
+msgstr ""
+
+#: ../aboss/theme-config.php:287
+msgid "Pick a color for star of rating (default: #f9ba48)."
+msgstr ""
+
+#: ../aboss/theme-config.php:296
+msgid "Link Color"
+msgstr ""
+
+#: ../aboss/theme-config.php:297
+msgid "Pick a color for link (default: #eb3e32)."
+msgstr ""
+
+#: ../aboss/theme-config.php:308
+msgid "Text selected background"
+msgstr ""
+
+#: ../aboss/theme-config.php:309
+msgid "Select background for selected text (default: #91b2c3)."
+msgstr ""
+
+#: ../aboss/theme-config.php:317
+msgid "Text selected color"
+msgstr ""
+
+#: ../aboss/theme-config.php:318
+msgid "Select color for selected text (default: #ffffff)."
+msgstr ""
+
+#: ../aboss/theme-config.php:346
+msgid "Header"
+msgstr ""
+
+#: ../aboss/theme-config.php:347
+msgid "Header options"
+msgstr ""
+
+#: ../aboss/theme-config.php:354
+msgid "Header Layout"
+msgstr ""
+
+#: ../aboss/theme-config.php:356 ../aboss/theme-config.php:597
+msgid "Go to Visual Composer => Templates to create/edit layout"
+msgstr ""
+
+#: ../aboss/theme-config.php:365
+msgid "Header background"
+msgstr ""
+
+#: ../aboss/theme-config.php:366 ../aboss/theme-config.php:607
+#: ../aboss/theme-config.php:1300
+msgid "Upload image or select color."
+msgstr ""
+
+#: ../aboss/theme-config.php:373
+msgid "Header text color"
+msgstr ""
+
+#: ../aboss/theme-config.php:374
+msgid "Pick a color for header color (default: #ffffff)."
+msgstr ""
+
+#: ../aboss/theme-config.php:383
+msgid "Header link color"
+msgstr ""
+
+#: ../aboss/theme-config.php:384
+msgid "Pick a color for header link color (default: #ffffff)."
+msgstr ""
+
+#: ../aboss/theme-config.php:397
+msgid "Sticky header"
+msgstr ""
+
+#: ../aboss/theme-config.php:403
+msgid "Use sticky header"
+msgstr ""
+
+#: ../aboss/theme-config.php:409
+msgid "Header sticky background"
+msgstr ""
+
+#: ../aboss/theme-config.php:439
+msgid "Top Bar"
+msgstr ""
+
+#: ../aboss/theme-config.php:447
+msgid "Top bar text color"
+msgstr ""
+
+#: ../aboss/theme-config.php:448
+msgid "Pick a color for top bar text color (default: #ffffff)."
+msgstr ""
+
+#: ../aboss/theme-config.php:457
+msgid "Top bar link color"
+msgstr ""
+
+#: ../aboss/theme-config.php:458
+msgid "Pick a color for top bar link color (default: #ffffff)."
+msgstr ""
+
+#: ../aboss/theme-config.php:471
+msgid "Menu"
+msgstr ""
+
+#: ../aboss/theme-config.php:477
+msgid "Mobile menu label"
+msgstr ""
+
+#: ../aboss/theme-config.php:478
+msgid "The label for mobile menu (example: Menu, Go to..."
+msgstr ""
+
+#: ../aboss/theme-config.php:485
+msgid "Submenu background"
+msgstr ""
+
+#: ../aboss/theme-config.php:486
+msgid "Pick a color for sub menu bg (default: #ffffff)."
+msgstr ""
+
+#: ../aboss/theme-config.php:495
+msgid "Submenu color"
+msgstr ""
+
+#: ../aboss/theme-config.php:496
+msgid "Pick a color for sub menu color (default: #7a7a7a)."
+msgstr ""
+
+#: ../aboss/theme-config.php:512
+msgid "Categories menu background"
+msgstr ""
+
+#: ../aboss/theme-config.php:513
+msgid "Pick a color for categories menu background (default: #ffffff)."
+msgstr ""
+
+#: ../aboss/theme-config.php:521
+msgid "Categories menu label"
+msgstr ""
+
+#: ../aboss/theme-config.php:522
+msgid "The label for categories menu"
+msgstr ""
+
+#: ../aboss/theme-config.php:528
+msgid "Number of items"
+msgstr ""
+
+#: ../aboss/theme-config.php:529
+msgid "Number of menu items level 1 to show, default value: 9"
+msgstr ""
+
+#: ../aboss/theme-config.php:539
+msgid "More items label"
+msgstr ""
+
+#: ../aboss/theme-config.php:540
+msgid "The label for more items button"
+msgstr ""
+
+#: ../aboss/theme-config.php:546
+msgid "Less items label"
+msgstr ""
+
+#: ../aboss/theme-config.php:547
+msgid "The label for less items button"
+msgstr ""
+
+#: ../aboss/theme-config.php:553
+msgid "Home Categories Menu"
+msgstr ""
+
+#: ../aboss/theme-config.php:554
+msgid "Always show categories menu on home page"
+msgstr ""
+
+#: ../aboss/theme-config.php:560
+msgid "Inner Categories Menu"
+msgstr ""
+
+#: ../aboss/theme-config.php:561
+msgid "Always show categories menu on inner pages"
+msgstr ""
+
+#: ../aboss/theme-config.php:587
+msgid "Footer"
+msgstr ""
+
+#: ../aboss/theme-config.php:588
+msgid "Footer options"
+msgstr ""
+
+#: ../aboss/theme-config.php:595
+msgid "Footer Layout"
+msgstr ""
+
+#: ../aboss/theme-config.php:606
+msgid "Footer background"
+msgstr ""
+
+#: ../aboss/theme-config.php:614
+msgid "Footer text color"
+msgstr ""
+
+#: ../aboss/theme-config.php:615
+msgid "Pick a color for top bar text color (default: #666666)."
+msgstr ""
+
+#: ../aboss/theme-config.php:624
+msgid "Footer link color"
+msgstr ""
+
+#: ../aboss/theme-config.php:625
+msgid "Pick a color for footer link color (default: #666666)."
+msgstr ""
+
+#: ../aboss/theme-config.php:645
+msgid "Enter social links"
+msgstr ""
+
+#: ../aboss/theme-config.php:646
+msgid "Drag/drop to re-arrange"
+msgstr ""
+
+#: ../aboss/theme-config.php:683
+msgid "Fonts"
+msgstr ""
+
+#: ../aboss/theme-config.php:684
+msgid "Fonts options"
+msgstr ""
+
+#: ../aboss/theme-config.php:691
+msgid "Body font"
+msgstr ""
+
+#: ../aboss/theme-config.php:708
+msgid "Main body font."
+msgstr ""
+
+#: ../aboss/theme-config.php:721
+msgid "Heading font"
+msgstr ""
+
+#: ../aboss/theme-config.php:738
+msgid "Heading font."
+msgstr ""
+
+#: ../aboss/theme-config.php:749
+msgid "Menu font"
+msgstr ""
+
+#: ../aboss/theme-config.php:766
+msgid "Menu font."
+msgstr ""
+
+#: ../aboss/theme-config.php:778
+msgid "Vertical Menu font"
+msgstr ""
+
+#: ../aboss/theme-config.php:795
+msgid "Vertical Menu font."
+msgstr ""
+
+#: ../aboss/theme-config.php:807
+msgid "Price font"
+msgstr ""
+
+#: ../aboss/theme-config.php:824
+msgid "Price font."
+msgstr ""
+
+#: ../aboss/theme-config.php:838
+msgid "Layout"
+msgstr ""
+
+#: ../aboss/theme-config.php:839
+msgid "Select page layout: Box or Full Width"
+msgstr ""
+
+#: ../aboss/theme-config.php:846
+msgid "Page Layout"
+msgstr ""
+
+#: ../aboss/theme-config.php:856
+msgid "Box layout width"
+msgstr ""
+
+#: ../aboss/theme-config.php:857
+msgid "Box layout width in pixels, default value: 1170"
+msgstr ""
+
+#: ../aboss/theme-config.php:867
+msgid "Preset"
+msgstr ""
+
+#: ../aboss/theme-config.php:868
+msgid "Select a preset to quickly apply pre-defined colors and fonts"
+msgstr ""
+
+#: ../aboss/theme-config.php:883
+msgid "Show Style Switcher"
+msgstr ""
+
+#: ../aboss/theme-config.php:884
+msgid "The style switcher is only for preview on front-end"
+msgstr ""
+
+#: ../aboss/theme-config.php:893
+msgid "Upload brand logos and links"
+msgstr ""
+
+#: ../aboss/theme-config.php:899 ../aboss/theme-config.php:958
+#: ../aboss/theme-config.php:1272
+msgid "Auto scroll"
+msgstr ""
+
+#: ../aboss/theme-config.php:905
+msgid "Scroll amount"
+msgstr ""
+
+#: ../aboss/theme-config.php:906
+msgid "Number of logos to scroll one time, default value: 2"
+msgstr ""
+
+#: ../aboss/theme-config.php:916 ../aboss/theme-config.php:1242
+msgid "Pause in (seconds)"
+msgstr ""
+
+#: ../aboss/theme-config.php:917 ../aboss/theme-config.php:1243
+msgid "Pause time, default value: 3000"
+msgstr ""
+
+#: ../aboss/theme-config.php:927 ../aboss/theme-config.php:964
+#: ../aboss/theme-config.php:1253 ../aboss/theme-config.php:1279
+msgid "Animate in (seconds)"
+msgstr ""
+
+#: ../aboss/theme-config.php:928 ../aboss/theme-config.php:965
+#: ../aboss/theme-config.php:1254 ../aboss/theme-config.php:1280
+msgid "Animate time, default value: 2000"
+msgstr ""
+
+#: ../aboss/theme-config.php:938
+msgid "Logos"
+msgstr ""
+
+#: ../aboss/theme-config.php:939
+msgid "Upload logo image and enter logo link."
+msgstr ""
+
+#: ../aboss/theme-config.php:941 ../aboss/theme-config.php:978
+#: ../aboss/woocommerce/class-wc-widget-cart.php:30
+msgid "Title"
+msgstr ""
+
+#: ../aboss/theme-config.php:943 ../aboss/theme-config.php:980
+msgid "Link"
+msgstr ""
+
+#: ../aboss/theme-config.php:951
+msgid "Categories carousel"
+msgstr ""
+
+#: ../aboss/theme-config.php:952
+msgid "Upload category logos and links"
+msgstr ""
+
+#: ../aboss/theme-config.php:975
+msgid "Images"
+msgstr ""
+
+#: ../aboss/theme-config.php:976
+msgid "Upload Categories image and enter categories link."
+msgstr ""
+
+#: ../aboss/theme-config.php:979
+msgid "Number products"
+msgstr ""
+
+#: ../aboss/theme-config.php:988
+msgid "Sidebar"
+msgstr ""
+
+#: ../aboss/theme-config.php:989
+msgid "Sidebar options"
+msgstr ""
+
+#: ../aboss/theme-config.php:996
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: ../aboss/theme-config.php:997
+msgid "Sidebar on shop page"
+msgstr ""
+
+#: ../aboss/theme-config.php:1006
+msgid "Pages Sidebar Position"
+msgstr ""
+
+#: ../aboss/theme-config.php:1007
+msgid "Sidebar on pages"
+msgstr ""
+
+#: ../aboss/theme-config.php:1016
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: ../aboss/theme-config.php:1017
+msgid "Sidebar on Blog pages"
+msgstr ""
+
+#: ../aboss/theme-config.php:1026
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../aboss/theme-config.php:1027
+msgid "Add more sidebars"
+msgstr ""
+
+#: ../aboss/theme-config.php:1028
+msgid ""
+"Enter sidebar name (Only allow digits and letters). click Add more to add "
+"more sidebar. Edit your page to select a sidebar "
+msgstr ""
+
+#: ../aboss/theme-config.php:1035 ../aboss/woocommerce/cart/cart.php:34
+msgid "Product"
+msgstr ""
+
+#: ../aboss/theme-config.php:1036
+msgid "Use this section to select options for product"
+msgstr ""
+
+#: ../aboss/theme-config.php:1042
+msgid "Shop Layout"
+msgstr ""
+
+#: ../aboss/theme-config.php:1052
+msgid "Shop default view"
+msgstr ""
+
+#: ../aboss/theme-config.php:1062
+msgid "Products per page"
+msgstr ""
+
+#: ../aboss/theme-config.php:1063
+msgid "Amount of products per page on category page"
+msgstr ""
+
+#: ../aboss/theme-config.php:1074
+msgid "Product columns"
+msgstr ""
+
+#: ../aboss/theme-config.php:1075
+msgid "Amount of product columns on category page"
+msgstr ""
+
+#: ../aboss/theme-config.php:1076 ../aboss/theme-config.php:1088
+msgid "Only works with: 1, 2, 3, 4, 6"
+msgstr ""
+
+#: ../aboss/theme-config.php:1086
+msgid "Product columns on full width shop"
+msgstr ""
+
+#: ../aboss/theme-config.php:1087
+msgid "Amount of product columns on full width category page"
+msgstr ""
+
+#: ../aboss/theme-config.php:1098
+msgid "Use secondary product image"
+msgstr ""
+
+#: ../aboss/theme-config.php:1099
+msgid "Show the secondary image when hover on product on list"
+msgstr ""
+
+#: ../aboss/theme-config.php:1105
+msgid "Related amount"
+msgstr ""
+
+#: ../aboss/theme-config.php:1106
+msgid "Amount of product on the related page"
+msgstr ""
+
+#: ../aboss/theme-config.php:1116
+msgid "Show Rating"
+msgstr ""
+
+#: ../aboss/theme-config.php:1117
+msgid "Show rating on all pages"
+msgstr ""
+
+#: ../aboss/theme-config.php:1124
+msgid "background shop product"
+msgstr ""
+
+#: ../aboss/theme-config.php:1130
+msgid "Background"
+msgstr ""
+
+#: ../aboss/theme-config.php:1140
+msgid "Product page"
+msgstr ""
+
+#: ../aboss/theme-config.php:1146
+msgid "ShareThis/AddThis head tag"
+msgstr ""
+
+#: ../aboss/theme-config.php:1147
+msgid "Paste your ShareThis or AddThis head tag here"
+msgstr ""
+
+#: ../aboss/theme-config.php:1153
+msgid "ShareThis/AddThis code"
+msgstr ""
+
+#: ../aboss/theme-config.php:1154
+msgid "Paste your ShareThis or AddThis code here"
+msgstr ""
+
+#: ../aboss/theme-config.php:1161 ../aboss/theme-config.php:1180
+msgid "Quick View"
+msgstr ""
+
+#: ../aboss/theme-config.php:1167
+msgid "View details text"
+msgstr ""
+
+#: ../aboss/theme-config.php:1173
+msgid "View all features text"
+msgstr ""
+
+#: ../aboss/theme-config.php:1174
+msgid "This is the text on quick view box"
+msgstr ""
+
+#: ../aboss/theme-config.php:1181
+msgid "Show quick view button on all pages"
+msgstr ""
+
+#: ../aboss/theme-config.php:1190
+msgid "Use this section to select options for blog"
+msgstr ""
+
+#: ../aboss/theme-config.php:1197
+msgid "Blog header text"
+msgstr ""
+
+#: ../aboss/theme-config.php:1203
+msgid "Blog Layout"
+msgstr ""
+
+#: ../aboss/theme-config.php:1213
+msgid "Read more text"
+msgstr ""
+
+#: ../aboss/theme-config.php:1219
+msgid "Excerpt length on blog page"
+msgstr ""
+
+#: ../aboss/theme-config.php:1230
+msgid "Latest posts carousel"
+msgstr ""
+
+#: ../aboss/theme-config.php:1236
+msgid "Latest posts auto scroll"
+msgstr ""
+
+#: ../aboss/theme-config.php:1266
+msgid "Use this section to select options for Testimonials"
+msgstr ""
+
+#: ../aboss/theme-config.php:1291
+msgid "Error 404 Page"
+msgstr ""
+
+#: ../aboss/theme-config.php:1292
+msgid "Error 404 page options"
+msgstr ""
+
+#: ../aboss/theme-config.php:1299
+msgid "Error 404 background"
+msgstr ""
+
+#: ../aboss/theme-config.php:1308
+msgid "Less Compiler"
+msgstr ""
+
+#: ../aboss/theme-config.php:1309
+msgid ""
+"Turn on this option to apply all theme options. Turn of when you have "
+"finished changing theme options and your site is ready."
+msgstr ""
+
+#: ../aboss/theme-config.php:1315
+msgid "Enable Less Compiler"
+msgstr ""
+
+#: ../aboss/theme-config.php:1322
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: ../aboss/theme-config.php:1323
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: ../aboss/theme-config.php:1324
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: ../aboss/theme-config.php:1328
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: ../aboss/theme-config.php:1333
+msgid "Import / Export"
+msgstr ""
+
+#: ../aboss/theme-config.php:1334
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: ../aboss/theme-config.php:1349
+msgid "Theme Information"
+msgstr ""
+
+#: ../aboss/theme-config.php:1365
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../aboss/theme-config.php:1366 ../aboss/theme-config.php:1372
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../aboss/theme-config.php:1371
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../aboss/theme-config.php:1376
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../aboss/theme-config.php:1396 ../aboss/theme-config.php:1397
+msgid "Theme Options"
+msgstr ""
+
+#: ../aboss/woocommerce/archive-product.php:122
+msgid "View on"
+msgstr ""
+
+#: ../aboss/woocommerce/cart/cart.php:33
+msgid "Image"
+msgstr ""
+
+#: ../aboss/woocommerce/cart/cart.php:35
+msgid "Price"
+msgstr ""
+
+#: ../aboss/woocommerce/cart/cart.php:36
+#: ../aboss/woocommerce/global/quantity-input.php:33
+msgid "Quantity"
+msgstr ""
+
+#: ../aboss/woocommerce/cart/cart.php:37
+msgid "Total"
+msgstr ""
+
+#: ../aboss/woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr ""
+
+#: ../aboss/woocommerce/cart/cart.php:117
+#: ../aboss/woocommerce/cart/mini-cart.php:72
+msgid "Remove this item"
+msgstr ""
+
+#: ../aboss/woocommerce/cart/cross-sells.php:31
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../aboss/woocommerce/cart/mini-cart.php:28
+msgid "My cart"
+msgstr ""
+
+#: ../aboss/woocommerce/cart/mini-cart.php:88
+msgid "Subtotal"
+msgstr ""
+
+#: ../aboss/woocommerce/cart/mini-cart.php:96
+msgid "No products in the cart."
+msgstr ""
+
+#: ../aboss/woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../aboss/woocommerce/checkout/form-checkout.php:48
+msgid "Your order"
+msgstr ""
+
+#: ../aboss/woocommerce/class-wc-widget-cart.php:23
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../aboss/woocommerce/class-wc-widget-cart.php:25
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../aboss/woocommerce/class-wc-widget-cart.php:29
+#: ../aboss/woocommerce/class-wc-widget-cart.php:54
+msgid "Cart"
+msgstr ""
+
+#: ../aboss/woocommerce/class-wc-widget-cart.php:35
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../aboss/woocommerce/loop/orderby.php:26
+msgid "Sort By"
+msgstr ""
+
+#: ../aboss/woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../aboss/woocommerce/single-product/add-to-cart/variable.php:43
+msgid "Clear"
+msgstr ""
+
+#: ../aboss/woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr ""
+
+#: ../aboss/woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr ""
+
+#: ../aboss/woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgstr ""
+
+#: ../aboss/woocommerce/single-product/meta.php:37
+msgid "Tag:"
+msgstr ""
+
+#: ../aboss/woocommerce/single-product/related.php:31
+msgid "Related products"
+msgstr ""
+
+#: ../aboss/woocommerce/single-product/up-sells.php:31
+msgid "Upsell products"
+msgstr ""
